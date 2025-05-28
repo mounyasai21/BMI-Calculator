@@ -67,9 +67,10 @@ BMI history and trends are displayed using **line graphs**, with:
 
 ## Output Screens
 
-![Screenshot 2025-05-28 231049](https://github.com/user-attachments/assets/b16343c5-9d7e-49b6-bd32-d84062eea30c)
-![Screenshot 2025-05-28 231103](https://github.com/user-attachments/assets/ad770efb-fe84-4a6a-8bea-f616881a1299)
+
 ![Screenshot 2025-05-28 231120](https://github.com/user-attachments/assets/b849080f-8113-4553-b843-10e7de13ccca)
+![Screenshot 2025-05-28 233823](https://github.com/user-attachments/assets/9b6ab6c8-9e16-4700-933e-e2eff8bad7fa)
+![Screenshot 2025-05-28 233548](https://github.com/user-attachments/assets/85536aa7-ce8f-4dee-8ad5-f24976efd59c)
 
 ## Video Reference
 
