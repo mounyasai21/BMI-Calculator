@@ -75,5 +75,9 @@ BMI history and trends are displayed using **line graphs**, with:
 
 
 
-Uploading vsdc-sr 2025-05-27 23-32-49.mp4…
+
+
+
+https://github.com/user-attachments/assets/ef6b5fc4-52ef-47fc-b6f2-800dad246fdd
+
 
