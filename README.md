@@ -1,1 +1,79 @@
-# BMI-Calculator
+##  BMI Calculator (Tkinter GUI)
+
+A user-friendly **Graphical BMI Calculator** built using **Python** and **Tkinter**, which allows users to:
+
+* Enter their weight and height.
+* Calculate BMI and view health category.
+* Save BMI records for multiple users.
+* Visualize historical BMI trends using graphs.
+
+##  Features
+
+✅ Simple GUI for easy input
+✅ BMI calculation and health classification
+✅ Data storage for multiple users (in `bmi_data.csv`)
+✅ BMI history tracking and trend visualization
+✅ Input validation with error handling
+✅ Uses Matplotlib for plotting BMI trends
+
+
+##  BMI Formula
+
+> **BMI = weight (kg) / (height (m))²**
+
+---
+
+##  BMI Categories
+
+* **Underweight**: BMI < 18.5
+* **Normal weight**: 18.5 ≤ BMI < 25
+* **Overweight**: 25 ≤ BMI < 30
+* **Obesity**: BMI ≥ 30
+
+
+## 🛠️ Requirements
+
+* Python 3.x
+* `tkinter` (comes pre-installed with Python)
+* `matplotlib`
+
+Install `matplotlib` if not already installed:
+
+```bash
+pip install matplotlib
+```
+
+##  Data Storage
+
+All user BMI records are saved in a CSV file called:
+
+```
+bmi_data.csv
+```
+
+---
+
+##  Visual Output
+
+BMI history and trends are displayed using **line graphs**, with:
+
+* X-axis → Date & time
+* Y-axis → BMI values
+
+##  Multiple User Support
+
+* Users can either enter a new name or select from existing names.
+* Each user's data is saved and retrieved separately.
+
+## Output Screens
+
+![Screenshot 2025-05-28 231049](https://github.com/user-attachments/assets/b16343c5-9d7e-49b6-bd32-d84062eea30c)
+![Screenshot 2025-05-28 231103](https://github.com/user-attachments/assets/ad770efb-fe84-4a6a-8bea-f616881a1299)
+![Screenshot 2025-05-28 231120](https://github.com/user-attachments/assets/b849080f-8113-4553-b843-10e7de13ccca)
+
+## Video Reference
+
+
+
+Uploading vsdc-sr 2025-05-27 23-32-49.mp4…
+
